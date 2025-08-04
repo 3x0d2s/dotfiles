@@ -1,0 +1,10 @@
+# Custom keyboard shortcuts to spawn apps
+
+ctrl - p : osascript -e 'tell application "Cursor" to activate'
+
+ctrl - s : osascript -e 'tell application "Safari" to activate'
+ctrl - m : osascript -e 'tell application "Google Chrome" to activate'
+
+ctrl - a : osascript -e 'tell application "Telegram" to activate'
+
+ctrl - t : osascript -e 'tell application "iTerm" to activate'
